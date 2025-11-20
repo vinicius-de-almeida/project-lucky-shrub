@@ -177,6 +177,9 @@ footer > .logofoot img {
   display: block;
 }
 
+.darkmode {
+  background-color: black;
+}
 .darkmode header {
   background-color: #023020;
 }
