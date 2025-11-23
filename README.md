@@ -3,9 +3,11 @@
 <img src="logo.png" alt="logo da Lucky Shrub" width="100"/>
 
 ## 🪴 Lucky Shrub Garden Design: Responsive Website Implementation
+
 This project is the corporate and fully responsive website for the fictional company "Lucky Shrub." It showcases proficiency in fundamental web technologies and best practices.
 
 ## ✨ Key Technical Highlights
+
 The implementation focuses on core Front-End standards, enhancing user experience and site maintainability:
 
 Semantic HTML5 & Accessibility (A11Y): Clean, structured markup including fully built and validated forms.
@@ -16,7 +18,7 @@ Styles are built using SCSS for modularity and maintainability (variables, compo
 
 Mobile-First approach utilizing Media Queries and Flexbox for adaptive layouts, including columns and visual features like banners.
 
-Includes minor UI enhancements (light button animations).
+Includes minor UI enhancements (light button animations, Gradient).
 
 JavaScript (ES6+) Functionality:
 
