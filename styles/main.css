@@ -81,6 +81,12 @@ footer > .logofoot img {
   height: auto;
 }
 
+body {
+  min-height: 100vh;
+  background: #ffffff;
+  background: linear-gradient(180deg, rgb(255, 255, 255) 0%, rgb(230, 255, 230) 50%, rgb(204, 204, 204) 100%);
+}
+
 .row-three {
   display: flex;
   margin-top: 3rem;
@@ -108,7 +114,7 @@ footer > .logofoot img {
   justify-content: center;
 }
 .form-contact button {
-  color: #04AA6D;
+  color: #04aa6d;
   background-color: #006400;
   width: 4rem;
   height: 2rem;
@@ -162,7 +168,7 @@ footer > .logofoot img {
 }
 
 #theme-switch svg {
-  fill: black;
+  fill: #000000;
 }
 
 #theme-switch svg:last-child {
@@ -178,26 +184,34 @@ footer > .logofoot img {
 }
 
 .darkmode {
-  background-color: black;
+  background-color: #000000;
 }
 .darkmode header {
   background-color: #023020;
 }
 .darkmode main {
-  background-color: black;
+  background-color: #000000;
 }
-.darkmode main h1, .darkmode main h2, .darkmode main h3, .darkmode main h4, .darkmode main h5, .darkmode main h6, .darkmode main p, .darkmode main a, .darkmode main li {
+.darkmode main h1,
+.darkmode main h2,
+.darkmode main h3,
+.darkmode main h4,
+.darkmode main h5,
+.darkmode main h6,
+.darkmode main p,
+.darkmode main a,
+.darkmode main li {
   color: green;
 }
 .darkmode main .row-three {
-  background-color: black;
+  background-color: #000000;
 }
 .darkmode main .row-three > article {
   background-color: #300212;
   color: green;
 }
 .darkmode footer {
-  background-color: black;
+  background-color: #000000;
   color: white;
 }
 
